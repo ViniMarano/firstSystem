@@ -1,0 +1,9 @@
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\bin\Debug\System_Um.exe.config
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\bin\Debug\System_Um.exe
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\bin\Debug\System_Um.pdb
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.csprojResolveAssemblyReference.cache
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.Form1.resources
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.Properties.Resources.resources
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.csproj.GenerateResource.Cache
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.exe
+c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.pdb
