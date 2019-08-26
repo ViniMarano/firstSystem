@@ -15,11 +15,46 @@ namespace System_Um
         public Form1()
         {
             InitializeComponent();
+            pnLinks.Visible = false;
+            pnTasks.Visible = false;
+            pnAbout.Visible = false;
         }
 
         private void btnFechar_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void btnPanel_Click(object sender, EventArgs e)
+        {
+            pnPanel.Visible = true;
+            pnLinks.Visible = false;
+            pnTasks.Visible = false;
+            pnAbout.Visible = false;
+        }
+
+        private void btnTasks_Click(object sender, EventArgs e)
+        {
+            pnTasks.Visible = true;
+            pnPanel.Visible = false;
+            pnLinks.Visible = false;
+            pnAbout.Visible = false;
+        }
+
+        private void btnLinks_Click(object sender, EventArgs e)
+        {
+            pnLinks.Visible = true;
+            pnPanel.Visible = false;
+            pnTasks.Visible = false;
+            pnAbout.Visible = false;
+        }
+
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+            pnAbout.Visible = true;
+            pnPanel.Visible = false;
+            pnLinks.Visible = false;
+            pnTasks.Visible = false;
         }
     }
 }

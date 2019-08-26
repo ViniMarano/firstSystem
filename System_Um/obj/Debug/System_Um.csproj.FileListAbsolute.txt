@@ -7,3 +7,7 @@ c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System
 c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.csproj.GenerateResource.Cache
 c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.exe
 c:\users\vinicius.cmarano\documents\visual studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.pdb
+C:\Users\vinicius.cmarano\Documents\Visual Studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.About.resources
+C:\Users\vinicius.cmarano\Documents\Visual Studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.Links.resources
+C:\Users\vinicius.cmarano\Documents\Visual Studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.Panel.resources
+C:\Users\vinicius.cmarano\Documents\Visual Studio 2015\Projects\System_Um\System_Um\obj\Debug\System_Um.Tasks.resources
