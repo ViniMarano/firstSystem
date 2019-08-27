@@ -27,34 +27,32 @@ namespace System_Um
 
         private void btnPanel_Click(object sender, EventArgs e)
         {
-            pnPanel.Visible = true;
-            pnLinks.Visible = false;
-            pnTasks.Visible = false;
-            pnAbout.Visible = false;
+            painelVisivel(pnPanel);
         }
 
         private void btnTasks_Click(object sender, EventArgs e)
         {
-            pnTasks.Visible = true;
-            pnPanel.Visible = false;
-            pnLinks.Visible = false;
-            pnAbout.Visible = false;
+            painelVisivel(pnTasks);
         }
 
         private void btnLinks_Click(object sender, EventArgs e)
         {
-            pnLinks.Visible = true;
-            pnPanel.Visible = false;
-            pnTasks.Visible = false;
-            pnAbout.Visible = false;
+            painelVisivel(pnLinks);
         }
 
         private void btnAbout_Click(object sender, EventArgs e)
         {
-            pnAbout.Visible = true;
+            painelVisivel(pnAbout);
+        }
+
+        private void painelVisivel(UserControl pn)
+        {
+            pnAbout.Visible = false;
             pnPanel.Visible = false;
             pnLinks.Visible = false;
             pnTasks.Visible = false;
+
+            pn.Visible = true;
         }
     }
 }
